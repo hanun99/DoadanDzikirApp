@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ll__doa_solat" type="id" />
+    <item name="Img_btn_dzikir_petang" type="id" />
+    <item name="rv_qauliyah_sholat" type="id" >
+
+    </item>
+    <item name="dzikir_doa_harian" type="id" />
+    <item name="img_detail" type="id" />
+    <item name="_dzikir_doa_shalat" type="id" />
+</resources>
